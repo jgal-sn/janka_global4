@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <claim/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.source_control.allow_global_apps_in_sc</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 17:35:29</sys_created_on>
+        <sys_id>6010a4b05b120010c3a999b8b681c735</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.source_control.allow_global_apps_in_sc</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_6010a4b05b120010c3a999b8b681c735</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 17:37:08</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=6010a4b05b120010c3a999b8b681c735"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global">global</application>
+        <file_path/>
+        <instance_id>afc2ea7ae9100010cb7cce57722eb499</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_properties_6010a4b05b120010c3a999b8b681c735</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><claim/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.source_control.allow_global_apps_in_sc</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-09 17:35:29</sys_created_on><sys_id>6010a4b05b120010c3a999b8b681c735</sys_id><sys_mod_count>2</sys_mod_count><sys_name>glide.source_control.allow_global_apps_in_sc</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_6010a4b05b120010c3a999b8b681c735</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-09 17:37:08</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=6010a4b05b120010c3a999b8b681c735"/></record_update>]]></payload>
+        <payload_hash>-616178168</payload_hash>
+        <record_name>glide.source_control.allow_global_apps_in_sc</record_name>
+        <reverted_from/>
+        <source>0be5e6fae9d00010cb7cce57722eb419</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 17:37:08</sys_created_on>
+        <sys_id>e770e8b05b120010c3a999b8b681c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f8b61a01c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 17:37:08</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>eb70e8b099120010cba68fa6ef6e565a</update_guid>
+        <update_guid_history>eb70e8b099120010cba68fa6ef6e565a:-616178168,eb60a8b0cd120010fa68d220535dc864:-203932665,f310a4b03a120010c2e382ca94f53bad:-616178168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <claim/>
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 17:17:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>99f0ef860f90454e809b060899b45009</sys_id>
+        <sys_metadata>6010a4b05b120010c3a999b8b681c735</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.source_control.allow_global_apps_in_sc</sys_name>
+        <sys_package display_value="janka_global4" source="ee202505db160010b89554e4dc96193b">ee202505db160010b89554e4dc96193b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="janka_global4">ee202505db160010b89554e4dc96193b</sys_scope>
+        <sys_scope_delete display_value="">055bfd02e2794e9a81e4169717485931</sys_scope_delete>
+        <sys_update_name>sys_properties_6010a4b05b120010c3a999b8b681c735</sys_update_name>
+        <sys_update_version display_value="sys_properties_6010a4b05b120010c3a999b8b681c735">e770e8b05b120010c3a999b8b681c75b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 17:17:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
